@@ -1,7 +1,7 @@
 name: garlandthompsonjr
 favicon: null
-layout_spectrum: 0.9030070675071329
-typography_spectrum: 0.5960559230297804
+layout_spectrum: 1
+typography_spectrum: 0.66602
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#131217'
-    - '#feffef'
-    - '#abbacd'
-    - '#3b4859'
-    - '#7c6e6d'
+    - '#2f2d30'
+    - '#5c565a'
+    - '#fe4042'
+    - '#acd1fe'
+    - '#0a6fff'
   brandStrength: 0.9375
   lightness: 0.06124411732889712
   saturation: 0.7696100850589573
