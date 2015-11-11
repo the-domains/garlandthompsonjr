@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[my new site]]></title>
-        <description><![CDATA[my new site]]></description>
+        <title><![CDATA[garlandthompsonjr]]></title>
+        <description><![CDATA[garlandthompsonjr]]></description>
         <link>https://thegrid.ai/garlandthompsonjr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 21:58:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garlandthompsonjr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Say what!?]]></title>
-            <description><![CDATA[<article><h1>Say what!?</h1><p>The first post on The Grid!</p></article>]]></description>
+            <description><![CDATA[<article><h1>Say what!?</h1><p>The first post on The Grid!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccbd7c5c-722e-47ff-b385-a60ca0785048.jpg"></article>]]></description>
             <link>https://thegrid.ai/garlandthompsonjr/first-post/index.html</link>
             <guid isPermaLink="false">ccfd9a4e-3076-47ea-b1d3-b3a6c96b2b2f</guid>
-            <pubDate>Wed, 11 Nov 2015 21:45:07 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2015 21:58:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
