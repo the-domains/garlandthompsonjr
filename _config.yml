@@ -2,6 +2,7 @@ name: garlandthompsonjr
 favicon: null
 layout_spectrum: 0.48403
 typography_spectrum: 0.66602
+title: my new site
 cta:
   domain: null
   bucket: null
