@@ -1,0 +1,23 @@
+name: garlandthompsonjr
+favicon: null
+layout_spectrum: 0.9030070675071329
+typography_spectrum: 0.5960559230297804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9599888122174889
+  lightness: 0.06124411732889712
+  saturation: 0.7696100850589573
+  rhythmicContrast: 0.2601869481150061
+purpose: []
