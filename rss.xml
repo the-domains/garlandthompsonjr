@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[garlandthompsonjr]]></title>
-        <description><![CDATA[garlandthompsonjr]]></description>
+        <title><![CDATA[my new site]]></title>
+        <description><![CDATA[my new site]]></description>
         <link>https://thegrid.ai/garlandthompsonjr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 21:43:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garlandthompsonjr/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[First Post!]]></title>
-            <description><![CDATA[<article><h1>First Post!</h1><p>The first post on The Grid!</p></article>]]></description>
-            <link>https://thegrid.ai/garlandthompsonjr/first-post/index.html</link>
-            <guid isPermaLink="false">ccfd9a4e-3076-47ea-b1d3-b3a6c96b2b2f</guid>
-            <pubDate>Wed, 11 Nov 2015 21:24:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://store.storeimages.cdn-apple.com/4779/as-images.apple.com/is/image/AppleInc/aos/published/images/H/J4/HJ4R2/HJ4R2?wid=572&hei=572&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1442022810423">]]></description>
