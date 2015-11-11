@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[garlandthompsonjr]]></title>
         <description><![CDATA[garlandthompsonjr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garlandthompsonjr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:24:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 21:25:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garlandthompsonjr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post!]]></title>
+            <description><![CDATA[<article><h1>First Post!</h1><p>The first post on The Grid!</p></article>]]></description>
+            <link>https://thegrid.ai/garlandthompsonjr/first-post/index.html</link>
+            <guid isPermaLink="false">ccfd9a4e-3076-47ea-b1d3-b3a6c96b2b2f</guid>
+            <pubDate>Wed, 11 Nov 2015 21:24:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://store.storeimages.cdn-apple.com/4779/as-images.apple.com/is/image/AppleInc/aos/published/images/H/J4/HJ4R2/HJ4R2?wid=572&hei=572&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1442022810423">]]></description>
-            <link>undefinedbfe4a76c-767a-43ea-b12d-c83f89fe0382/index.html</link>
+            <link>https://thegrid.ai/garlandthompsonjr/bfe4a76c-767a-43ea-b12d-c83f89fe0382/index.html</link>
             <guid isPermaLink="false">bfe4a76c-767a-43ea-b12d-c83f89fe0382</guid>
             <pubDate>Wed, 11 Nov 2015 21:24:50 GMT</pubDate>
         </item>
