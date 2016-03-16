@@ -1,29 +1,41 @@
-name: garlandthompsonjr
-favicon: null
-layout_spectrum: 0.25589
-typography_spectrum: 0.66602
 title: garlandthompsonjr
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2089151
+  brandStrength: 0.9375
+  lightness: 0.4538131
   brandColors:
     - '#2f2d30'
     - '#5c565a'
     - '#fe4042'
     - '#acd1fe'
     - '#0a6fff'
-  brandStrength: 0.9375
-  lightness: 0.4375
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.8694951
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: garlandthompsonjr
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.66602
+layout_spectrum: 0.25589
