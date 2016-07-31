@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2089151
   brandStrength: 0.9375
-  lightness: 0.4538131
+  lightness: 0.2969925
   brandColors:
     - '#2f2d30'
     - '#5c565a'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: garlandthompsonjr
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.66602
-layout_spectrum: 0.25589
+layout_spectrum: 0.4419979
